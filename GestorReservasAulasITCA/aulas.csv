@@ -1,0 +1,6 @@
+codigo,nombre,capacidad,tipo,equipamiento,disponible
+A101,Aula Teórica 101,40,TEORICA,Proyector, Pizarra,true
+L201,Laboratorio Computación,25,LABORATORIO,Computadoras, Proyector,true
+A301,Auditorio Principal,100,AUDITORIO,Sonido, Video, Micrófonos,true
+A102,Aula Teórica 102,35,TEORICA,Pizarra,true
+L202,Laboratorio Electrónica,20,LABORATORIO,Instrumentos, Computadoras,true
